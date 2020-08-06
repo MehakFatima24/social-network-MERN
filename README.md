@@ -1,1 +1,1 @@
-# social-nerwork-MERN
+# social-network-MERN
